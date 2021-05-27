@@ -1,0 +1,10 @@
+argparse
+matplotlib
+numpy
+torch>=1.4.0
+networkx
+snap-stanford
+sklearn
+six
+scipy
+gudhi>=3.3.0
